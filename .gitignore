@@ -1,0 +1,22 @@
+# Data files
+data/
+*.json
+*.csv
+
+# Screenshots
+screenshots/
+*.png
+*.jpg
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node
+node_modules/
